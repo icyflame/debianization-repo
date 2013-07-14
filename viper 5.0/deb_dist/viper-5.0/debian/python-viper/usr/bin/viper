@@ -1,0 +1,10 @@
+#!/usr/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'viper==5.0','gui_scripts','viper'
+__requires__ = 'viper==5.0'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('viper==5.0', 'gui_scripts', 'viper')()
+    )

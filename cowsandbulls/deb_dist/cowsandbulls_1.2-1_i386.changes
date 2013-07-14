@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Tue, 02 Jul 2013 14:55:21 +0530
+Source: cowsandbulls
+Binary: python-cowsandbulls
+Architecture: all
+Version: 1.2-1
+Distribution: unstable
+Urgency: low
+Maintainer: Siddharth Kannan <kannan.siddharth12@gmail.com>
+Changed-By: Siddharth Kannan <kannan.siddharth12@gmail.com>
+Description: 
+ python-cowsandbulls - A number guessing game.
+Changes: 
+ cowsandbulls (1.2-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 463c57e732ceb30439137bbf525b3078ddd905a3 5306 python-cowsandbulls_1.2-1_all.deb
+Checksums-Sha256: 
+ 3a38d4238b9622f326ee92c822e9ef894de8c1f52226286c540bbba53e07eb30 5306 python-cowsandbulls_1.2-1_all.deb
+Files: 
+ 42777400b9318cdd7bb6ae58a2c8f673 5306 python optional python-cowsandbulls_1.2-1_all.deb

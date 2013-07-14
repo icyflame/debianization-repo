@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: viper
+Version: 5.0
+Summary: Password manager, written in Python and GUI generated using Tkinter.
+Home-page: http://siddharthkannan.webs.com
+Author: Siddharth Kannan
+Author-email: kannan.siddharth12@gmail.com
+License: WTFPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: WTFPL

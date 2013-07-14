@@ -1,0 +1,8 @@
+setup.py
+cowsandbulls/__init__.py
+cowsandbulls/cab1.py
+cowsandbulls.egg-info/PKG-INFO
+cowsandbulls.egg-info/SOURCES.txt
+cowsandbulls.egg-info/dependency_links.txt
+cowsandbulls.egg-info/entry_points.txt
+cowsandbulls.egg-info/top_level.txt

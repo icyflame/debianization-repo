@@ -1,0 +1,12 @@
+setup.py
+viper/__init__.py
+viper/encryption.py
+viper/isolating.py
+viper/modifying.py
+viper/newRec.py
+viper/viper5.py
+viper.egg-info/PKG-INFO
+viper.egg-info/SOURCES.txt
+viper.egg-info/dependency_links.txt
+viper.egg-info/entry_points.txt
+viper.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+[gui_scripts]
+viper = viper.viper5:main
+

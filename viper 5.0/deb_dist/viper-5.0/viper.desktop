@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=5.0
+Type=Application
+Name=VIPER
+Comment=Your passwords, Safe with VIPER
+# myscript should wait for user input at the end, else the terminal
+# window will disappear immediately.
+Exec=viper
+Icon=/home/siddharth/Desktop/sandbox/viper 5.0/logo.jpeg
+Categories=Utility;
+# desktop should run this in a terminal application
+Terminal=true
+StartupNotify=true
+StartupWMClass=VIPER

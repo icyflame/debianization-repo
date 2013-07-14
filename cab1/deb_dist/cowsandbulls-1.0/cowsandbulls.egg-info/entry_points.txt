@@ -1,0 +1,3 @@
+[gui_scripts]
+cowsandbulls = cab1.cab1:main
+

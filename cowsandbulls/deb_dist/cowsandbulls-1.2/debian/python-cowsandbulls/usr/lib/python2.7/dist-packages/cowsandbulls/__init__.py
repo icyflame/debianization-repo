@@ -1,0 +1,1 @@
+../../../../share/pyshared/cowsandbulls/__init__.py

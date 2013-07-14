@@ -1,0 +1,10 @@
+Package: python-viper
+Source: viper
+Version: 5.0-1
+Architecture: all
+Maintainer: Siddharth Kannan <kannan.siddharth12@gmail.com>
+Installed-Size: 108
+Depends: python2.7, python (>= 2.7.1-0ubuntu2), python (<< 2.8)
+Section: python
+Priority: optional
+Description: Password manager, written in Python and GUI generated using

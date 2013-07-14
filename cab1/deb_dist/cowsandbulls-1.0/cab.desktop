@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cows And Bulls
+Comment=number guessing game
+# myscript should wait for user input at the end, else the terminal
+# window will disappear immediately.
+Exec=cowsandbulls
+Icon=/home/siddharth/Desktop/sandbox/cab1/1.jpg
+Categories=Utility;
+# desktop should run this in a terminal application
+Terminal=true
+StartupNotify=true
+StartupWMClass=CowsAndBulls

@@ -1,0 +1,14 @@
+c3486138547aba5e2b9b8c061d6325a5  usr/bin/viper
+090cc56698c383f77d49193c8d65f888  usr/share/applications/viper.desktop
+2c47e214621a772fd50b1decbf2c3290  usr/share/doc/python-viper/changelog.Debian.gz
+5d900b9aa2f6c478094a034d48ddb321  usr/share/pyshared/viper-5.0.egg-info/PKG-INFO
+50d81e2a6767401f2d7fea484e21f843  usr/share/pyshared/viper-5.0.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/share/pyshared/viper-5.0.egg-info/dependency_links.txt
+d1e3acd54d4ec5591c8bc0291aca710a  usr/share/pyshared/viper-5.0.egg-info/entry_points.txt
+74f574e646b091accb92b16123be211d  usr/share/pyshared/viper-5.0.egg-info/top_level.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/viper/__init__.py
+970952938777c512b0768354cdd34b36  usr/share/pyshared/viper/encryption.py
+b8f57179425ca6fa6250606cd23aeb1c  usr/share/pyshared/viper/isolating.py
+28404fd27a7d253c03cc7228b4781a2e  usr/share/pyshared/viper/modifying.py
+26dcff6f6882fa868c33df007fd7aaee  usr/share/pyshared/viper/newRec.py
+e56ab04c0e8c78e62176e25a154c81ee  usr/share/pyshared/viper/viper5.py

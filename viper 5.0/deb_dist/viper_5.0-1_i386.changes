@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Tue, 02 Jul 2013 21:23:02 +0530
+Source: viper
+Binary: python-viper
+Architecture: all
+Version: 5.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Siddharth Kannan <kannan.siddharth12@gmail.com>
+Changed-By: Siddharth Kannan <kannan.siddharth12@gmail.com>
+Description: 
+ python-viper - Password manager, written in Python and GUI generated using
+Changes: 
+ viper (5.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.6.0+git
+Checksums-Sha1: 
+ 0af78448ac3d466f1bb6c6e956a7703253b94660 12588 python-viper_5.0-1_all.deb
+Checksums-Sha256: 
+ dd343a4bff7f9a12d069794f134254eca13cc7573cfa9c2d9038b4df02beb385 12588 python-viper_5.0-1_all.deb
+Files: 
+ 55b5a2b81f49304098fa29f5304b6ae5 12588 python optional python-viper_5.0-1_all.deb
